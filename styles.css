@@ -1,0 +1,85 @@
+body {
+	background-color: #3e9cef;
+	font-family: sans-serif;
+}
+
+.title {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 30px;
+}
+
+.logo {
+	height: 35px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 25px;
+}
+
+.email_form {
+	background-color: #ffffff;
+	width: 400px;
+	display: block;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin: 0 auto;
+}
+
+.email_form input {
+	display: block;
+	
+}
+
+.email_form label {
+	display: block;
+	padding-top: 30px;
+	margin-bottom: 25px; 
+}
+
+.button {
+	background-color: #34ba4e;
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	border: none;
+}
+
+
+.email_form button {
+	margin-top: 30px;
+	padding: 15px;
+	width: 100%;
+}
+
+input, button {
+	height: 55px;
+	border-radius: 5px;
+	border: 1px solid black;
+
+}
+
+input {
+	padding-left: 15px;
+	width: 380px;
+}
+
+.forgotpass {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.forgotpass a {
+	text-decoration: none;
+	color: #cbcbcb;
+}
+
+.account {
+	text-align: center;
+	color: #ffffff;
+}
+
+.account a {
+	color: #ffffff;
+	text-decoration: none;
+}
